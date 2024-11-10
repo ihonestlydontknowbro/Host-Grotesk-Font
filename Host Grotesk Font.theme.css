@@ -1,0 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Host+Grotesk&display=swap');
+
+:root {
+    --font-primary: 'Host Grotesk'; /* Font */
+    --primary-text-color: lightgray; /* Font color */
+}
